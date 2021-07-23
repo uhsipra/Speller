@@ -1,5 +1,7 @@
 # PSET-5
 
+The only file edited was the dictionary.c file.
+
 Taken from the cs50x 2021 website
 
 Understanding
