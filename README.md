@@ -1,4 +1,4 @@
-# PSET-5
+# Speller
 
 The only file edited was the dictionary.c file.
 
