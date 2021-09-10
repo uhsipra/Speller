@@ -2,7 +2,7 @@
 
 The only file edited was the dictionary.c file.
 
-Taken from the cs50x 2021 website
+Taken from the cs50x 2020 website
 
 Understanding
 
